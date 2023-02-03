@@ -9,8 +9,8 @@ import streamlit as st
 
 ##  had 819623 row values of data after merging
 
-books= pd.read_csv('C:/Users/tina/Desktop/data/books.csv', on_bad_lines='skip')
-ratings= pd.read_csv('C:/Users/tina/Desktop/data/Ratings.csv')
+books= pd.read_csv('books.csv', on_bad_lines='skip')
+ratings= pd.read_csv('Ratings.csv')
 books.rename(columns = {'Image-URL-L;;;;;;':'Image-URL-L'}, inplace = True)
 books_ratings = pd.merge(books, ratings, on='ISBN')
 
