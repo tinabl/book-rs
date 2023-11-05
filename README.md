@@ -13,4 +13,8 @@ on the proximity of other users' behavior. I calculated the measure of similarit
 
 
 In the preparation of the study, I was inspired and benefited a lot from the notebook 'https://github.com/Zekeriyabesiroglu/DSMay22/blob/main/project04/tavsiye-sistemleri/Tavsiye_Sistemleri.ipynb' along with lots of web research.
-                                   
+
+
+
+https://github.com/tinabl/book-rs/assets/93467399/ad4a44ce-9216-41ab-afbf-357f610f9504
+
