@@ -1,7 +1,7 @@
 # book-rs
 a book recommendation system with Streamlit
 
-An application of ML Recommender Systems algorithms using Collaborative and Content-Based Filtering methods separately. I created a neat web-app page 
+An application of ML Recommender Systems algorithms, implementing Collaborative and Content-Based Filtering methods separately. I created a neat web-app page 
 using Streamlit for the presentation.
 
 The two datasets I've merged have columns containing information of some books with user Ids as well as their ratings and have image URLs of most of them.
