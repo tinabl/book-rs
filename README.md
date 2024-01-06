@@ -1,5 +1,5 @@
 # book-rs
-a book recommendation system with Streamlit
+book recommendation system with Streamlit
 
 An application of ML Recommender Systems algorithms, implementing Collaborative and Content-Based Filtering methods separately. I created a neat web-app page 
 using Streamlit for the presentation.
